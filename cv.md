@@ -18,3 +18,4 @@ I am currently actively looking for a job. 6 years worked at dairy factories. I 
 #Languages
 *Russian
 *English (A2)
+[Аватар](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBDSh3OZ992NTGKERu7XwnBbCTLrPsuwtzw&usqp=CAU)
