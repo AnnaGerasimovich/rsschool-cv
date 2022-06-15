@@ -1,6 +1,10 @@
 body{
-    font-family: 'Roboto', sans-serif; 
-}
+    font-family: 'Roboto', sans-serif;}
+body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
 @font-face {
     font-family: Roboto;
      src: url("asseassets\fonts\Roboto-Black.ttf");}
@@ -9,3 +13,10 @@ body{
     justify-content: flex-end;
     align-items: center;
 }
+html {
+    scroll-behavior: smooth; 
+  }
+.header {border: 1px solid red;}
+* {
+    box-sizing: border-box;
+  }
