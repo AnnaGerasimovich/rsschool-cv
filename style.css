@@ -8,6 +8,7 @@ body {
 @font-face {
     font-family: Roboto;
      src: url("asseassets\fonts\Roboto-Black.ttf");}
+
 .nav-list {
     display: flex;
     justify-content: flex-end;
@@ -23,4 +24,7 @@ html {
   .container {
     max-width: 1440px;
     margin: 0 auto;
+  }
+  .nav-list {
+    list-style: none;
   }
