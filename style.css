@@ -4,3 +4,8 @@ body{
 @font-face {
     font-family: Roboto;
      src: url("asseassets\fonts\Roboto-Black.ttf");}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
