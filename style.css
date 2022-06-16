@@ -13,6 +13,9 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    background-color: #829985;
+    font-size: medium;
+    color: antiquewhite;
 }
 html {
     scroll-behavior: smooth; 
@@ -70,3 +73,4 @@ html {
   .section-item a:hover {
     color: #4d2323;
   }
+  
